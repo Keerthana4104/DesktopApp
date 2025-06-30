@@ -1,7 +1,5 @@
-# DesktopApp
 Create a desktop application using Electronjs
 ---
-# How to Set Up and Run App
 1. Create a new GitHub repo and clone it to your computer.
 2. Open VSCode and make a new folder for your app.
 3. Inside the folder, create two files: `index.html` and `index.js`.
